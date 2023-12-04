@@ -1,5 +1,9 @@
 # Dasar-Komputer-1
-Tugas Pendahuluan pada laboratorium dasar komputer (daskom)
+Laboratorium Dasar Komputer
 
-Fakultas Teknik Elektro - Semester 1
+Terdapat TP sebagai tugas Penahuluan, dokumen ini berisikan tugas pendahuluan yang sudah dikerjakan.
+Isinya berupa file.c  pada modul-modul awal tidak disertakan soal, 
+
+Fakultas Teknik Elektro - Semester 1 
+
 Telkom University Bandung
