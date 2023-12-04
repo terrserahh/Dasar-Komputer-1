@@ -2,3 +2,4 @@
 Tugas Pendahuluan pada laboratorium dasar komputer (daskom)
 
 Fakultas Teknik Elektro - Semester 1
+Telkom University Bandung
