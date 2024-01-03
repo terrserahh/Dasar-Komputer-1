@@ -17,7 +17,7 @@ Dokumen ini berisikan :
        		Modul 8  - Searching
         	Modul 9  - Algoritma Rekursif
         	Modul 10 - File Handling 
- 	2. Tugas Besar - D'Bengkel TelU
+ 		2. Tugas Besar - D'Bengkel TelU
 	
 Fakultas Teknik Elektro - Semester 1 
 
