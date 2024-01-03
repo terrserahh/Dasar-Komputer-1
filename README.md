@@ -6,9 +6,9 @@ Laboratorium Dasar Komputer
 	- Pada modul 6-10, soal sudah tercantum di dalam file kodingan c
 
 Dokumen ini berisikan :
-	1. tugas pendahuluan yang sudah dikerjakan.
-
-        	Modul 2  - Tipe data dan komponen algoritma
+	
+        1. Tugas Pendahuluan yang sudah dikerjakan
+	 	Modul 2  - Tipe data dan komponen algoritma
         	Modul 3  - Percabangan
         	Modul 4  - Perulangan
         	Modul 5  - Fungsi
