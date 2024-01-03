@@ -16,6 +16,8 @@ Dokumen ini berisikan tugas pendahuluan yang sudah dikerjakan.
         Modul 8  - Searching
         Modul 9  - Algoritma Rekursif
         Modul 10 - File Handling
+	Tugas Besar - D'Bengkel TelU
+	
 Fakultas Teknik Elektro - Semester 1 
 
 Telkom University Bandung
