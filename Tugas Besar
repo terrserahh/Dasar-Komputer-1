@@ -1,0 +1,32 @@
+D'BengkelTelU
+Deskripsi :
+D'BengkelTelU adalah sebuah aplikasi pemesanan jasa dari toko bengkel yang ada di sekitar Telkom University,
+aplikasi ini dapat membantu mahasiswa/dosen/aktivis kampus yang mengalami kendala pada kendaraannya untuk mencari
+toko bengkel yang ada di sekitar kampus dan dapat langsung memanggil montir dari toko bengkel tersebut untuk datang.
+
+Fitur Program :
+        Fitur Admin
+         ● Login username dan password (rekursif 3x)
+         ● Terdapat 3 jenis bengkel (bengkel mobil, motor, dan sepeda)
+         ● Menambahkan nama toko bengkel berdasarkan jenis bengkel nya, rincian nya (nama
+           toko, nama pemilik toko, jumlah montir, kontak pemilik toko, alamat, jam buka/ tutup)
+         ● Kuota montir pada setiap toko bengkel akan berkurang jika user memesan di bengkel
+           tersebut
+         ● Menghapus nama dari toko bengkel
+         ● Menampilkan daftar nama dari toko bengkel yang sudah dibuat berdasarkan jenis
+           bengkel dan di urutkan dari A-Z (nama toko bengkel)
+         ● Menampilkan hasil orderan yang masuk di urutkan dari A-Z ( nama toko, nama
+           customer, jenis kendaraan, plat kendaraan, dan deskripsi)
+         ● Menampilkan feedback dari nama toko bengkel. (output: nama bengkel, nama
+           customer, dan feedback )
+        Fitur Customer
+         ● Registrasi (nama lengkap, jenis kendaraan, no telp, username, password)
+         ● Login username dan password (rekursif 3x)
+         ● Menampilkan toko bengkel yang tersedia berdasarkan jenis bengkel nya (bengkel
+           mobil, motor, dan sepeda)
+         ● Mencari toko bengkel yang tersedia sebelum membuat pesanan dengan metode
+           searching (input: nama toko)
+         ● Membuat pesanan jasa toko bengkel tersebut dengan mengirim pesan ke toko yang
+           telah dipilih
+         ● Mengirim feedback pada toko bengkel yang sudah dipesan (input: nama bengkel dan
+           feedback)
