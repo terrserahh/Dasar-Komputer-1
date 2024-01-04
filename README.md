@@ -9,7 +9,8 @@ Dokumen ini berisikan :
 
  
         1. Tugas Pendahuluan yang sudah dikerjakan
-	
+
+ 
 	   Modul 2  - Tipe data dan komponen algoritma
            Modul 3  - Percabangan
            Modul 4  - Perulangan
